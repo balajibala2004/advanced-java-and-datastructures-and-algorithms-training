@@ -1,0 +1,28 @@
+Write a program to print all numbers from 1 to 100 i.e. 1 2 3 4 5 6 7 . . . 98 99 100
+
+
+import java.io.*;
+import java.util.*;
+import java.text.*;
+import java.math.*;
+import java.util.regex.*;
+ 
+class onetohundred
+{
+    // Prints numbers from 1 to n
+    static void printNos(int n)
+    {
+        if(n > 0)
+        {
+            printNos(n - 1);
+            System.out.print(n + " ");
+        }
+        return;
+    }
+ 
+    // Driver Code
+    public static void main(String[] args)
+    {
+        printNos(100);
+    }
+}
