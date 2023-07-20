@@ -1,0 +1,23 @@
+Write a program to print all numbers backwards from 100 to 0 i.e. 100 99 98 97 96 . . . 4 3 2 1 0
+
+
+import java.util.*;
+ 
+class reversenumbers {
+ 
+
+static void PrintReverseOrder(int N)
+{
+ 
+    for (int i = N; i > 0; i--)
+        System.out.print( +i + " ");
+}
+ 
+// Driver code
+public static void main(String[] args)
+{
+    int N = 5;
+ 
+    PrintReverseOrder(N);
+}
+}
