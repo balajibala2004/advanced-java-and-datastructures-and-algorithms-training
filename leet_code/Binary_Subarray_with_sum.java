@@ -1,6 +1,6 @@
 import java.util.*;
 
-class Solution 
+class Solution
 {
 
     public static int func(int[] nums, int goal)
