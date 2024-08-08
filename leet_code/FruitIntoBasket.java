@@ -1,5 +1,5 @@
 
-class Solution {
+class Solution{
     public static int totalFruits(Integer[] fruits) 
     {
       int left = 0; 
