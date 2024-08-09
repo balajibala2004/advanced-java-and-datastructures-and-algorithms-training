@@ -1,5 +1,5 @@
 public class Solution {
-    public static int[] printNos(int x) {
+    public static int[] printNos(int x){
     
      int[]ans =new int[x];
 
