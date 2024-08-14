@@ -6,7 +6,7 @@ public class Solution {
           // Step 1: Find the break point:
         int n = A.size();
         int ind = -1; // break point
-        for (int i = n - 2; i >= 0; i--) {
+        for (int i = n - 2; i >= 0; i--){
             if (A.get(i) < A.get(i + 1)) {
                 // index i is the break point
                 ind = i;
