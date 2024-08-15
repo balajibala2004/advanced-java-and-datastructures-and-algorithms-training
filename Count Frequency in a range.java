@@ -18,7 +18,7 @@ public class Solution {
 		 int[] arr = new int[x+1];
 		 
 		 for(int i:nums)
-		 {
+	{
 			 arr[i]++;
 		 }
 		 return Arrays.copyOfRange(arr, 1, n+1);
