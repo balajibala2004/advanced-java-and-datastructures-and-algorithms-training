@@ -12,7 +12,7 @@ int count =0;
 	int digit =0;
 	int sum =0;
 	while(res!=0)
-	{
+{
 		count++;
 		res=res/10;
 		
