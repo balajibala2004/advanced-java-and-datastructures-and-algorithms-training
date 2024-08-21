@@ -15,7 +15,7 @@ public class Solution {
 		}
 		result.add("Coding Ninjas");
 		recur(x+1,y , result);
-	}
+}
 
     
 }
