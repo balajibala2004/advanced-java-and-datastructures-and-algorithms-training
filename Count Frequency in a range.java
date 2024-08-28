@@ -8,8 +8,7 @@ public class Solution{
 	int[] res = countFrequency(6,4,arr);
 	
 	//System.out.println(Arrays.toString(res));
-	
-}	
+	}	
 	
 
      
