@@ -5,7 +5,7 @@ public class Solution {
         List<String> result = new ArrayList<>();
 		recur(1,n, result);
         return result;
-    }
+}
 
     public static void recur(int x,int y , List<String> result)
 	{
