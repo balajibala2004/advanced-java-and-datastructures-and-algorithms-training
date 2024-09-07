@@ -5,7 +5,7 @@ class MinStack {
     /** initialize your data structure here. */
     public MinStack() {
         mini = Long.MAX_VALUE;
-    }
+}
 
     public void push(int value) {
         Long val = Long.valueOf(value);
