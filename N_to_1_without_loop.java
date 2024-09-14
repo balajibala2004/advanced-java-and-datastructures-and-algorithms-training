@@ -18,7 +18,6 @@ public class Solution
 		
 		recur(x,y-1,res,cnt);
 		
-		
-}
+		}
 
 }
