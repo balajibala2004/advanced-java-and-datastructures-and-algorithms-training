@@ -20,7 +20,7 @@ class MinStack {
                 st.push(val);
             }
         }
-    }
+}
 
     public void pop() {
         if (st.isEmpty()) return;
