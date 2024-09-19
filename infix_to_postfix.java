@@ -15,7 +15,7 @@ class Solution {
                 result+= c;
             }
             else if(c == '(')
-            {
+     {
                 st.push(c);
             }
             else if(c == ')')
