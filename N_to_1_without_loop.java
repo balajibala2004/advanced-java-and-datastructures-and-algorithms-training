@@ -7,7 +7,7 @@ public class Solution
         return  res;
         }
         public static void recur(int x,int y,int[] res,int cnt)
-	{
+{
 		
 		if(x>y)
 		{
