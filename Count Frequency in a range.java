@@ -16,8 +16,7 @@ public static void main(String[] args){
 	        // Write your code here.
 		 int[] arr = new int[x+1];
 		 
-		 for(int i:nums)
-{
+		 for(int i:nums){
 			 arr[i]++;
 	}
 		 return Arrays.copyOfRange(arr, 1, n+1);
