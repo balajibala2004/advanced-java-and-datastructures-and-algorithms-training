@@ -8,7 +8,7 @@ public class Solution {
 }
 
     public static void recur(int x,int y , List<String> result)
-	{
+{
 		if(x>y)
 		{
 			return;
