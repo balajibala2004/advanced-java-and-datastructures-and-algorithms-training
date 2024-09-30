@@ -18,7 +18,7 @@ public static void main(String[] args){
 		 
 		 for(int i:nums){
 			 arr[i]++;
-	}
+}
 		 return Arrays.copyOfRange(arr, 1, n+1);
 	    }
     }
