@@ -12,7 +12,7 @@ public class Solution {
 		if(x>y)
 		{
 			return;
-	}
+}
 		result.add("Coding Ninjas");
 		recur(x+1,y , result);
 }
