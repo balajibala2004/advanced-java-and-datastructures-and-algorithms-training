@@ -20,7 +20,7 @@ public static void main(String[] args){
 			 arr[i]++;
 }
 		 return Arrays.copyOfRange(arr, 1, n+1);
-	    }
+	 }
     }
 import java.util.Arrays;
 public class Solution {
