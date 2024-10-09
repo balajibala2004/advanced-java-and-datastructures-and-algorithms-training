@@ -10,7 +10,7 @@ public class Solution {
 }
 
 	public static void recur(int x , int[] ans)
-    {
+{
         if(x==0)
 		{
 			return;
