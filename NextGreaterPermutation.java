@@ -18,8 +18,7 @@ public class Solution {
         if (ind == -1) {
             // reverse the whole array:
             Collections.reverse(A);
-            return A;
- }
+            return }
 
         // Step 2: Find the next greater element
         //         and swap it with arr[ind]:
