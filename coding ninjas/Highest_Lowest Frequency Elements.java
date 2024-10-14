@@ -9,7 +9,7 @@ public class Solution {
         // Count the frequency of each element in the array
         for (int num : v) {
             frequencyMap.put(num, frequencyMap.getOrDefault(num, 0) + 1);
-        }
+       }
 
         int maxFrequency = Integer.MIN_VALUE;
         int minFrequency = Integer.MAX_VALUE;
