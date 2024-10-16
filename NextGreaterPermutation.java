@@ -30,7 +30,7 @@ public class Solution {
                 A.set(ind, tmp);
                 break;
             }
-        }
+     }
 
         // Step 3: reverse the right half:
         List<Integer> sublist = A.subList(ind + 1, n);
