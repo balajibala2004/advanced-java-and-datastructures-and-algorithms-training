@@ -15,7 +15,7 @@ public class myclass
 		int remainder=0 ;
 		int i = 0;
 		while(a!=0||b!=0)
-		{
+	{
 			sum[i++] =(int) (a%10 + b%10 + remainder)%2;
 			remainder = (int)(a%10 + b%10 + remainder)/2;
 			
