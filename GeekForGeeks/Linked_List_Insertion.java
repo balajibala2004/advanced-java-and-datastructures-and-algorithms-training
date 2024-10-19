@@ -21,7 +21,7 @@ class Solution
     {
         Node newn1 = new Node(x); 
         if(head == null)
-        {
+    {
             head = newn1;
             return head;
         }
