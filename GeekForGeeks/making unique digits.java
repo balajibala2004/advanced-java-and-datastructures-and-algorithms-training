@@ -9,7 +9,7 @@ class Solution
             int num = nums[i];
             
             while(num!=0)
-            {
+         {
                 int t = num%10;
                 mp.put(t ,mp.getOrDefault(t,0)+1);
                 
