@@ -14,7 +14,7 @@ public class Solution {
         if(x==0)
 		{
 			return;
-		}
+	}
 		recur(x-1, ans);
 		
 		ans[x-1] = x;
