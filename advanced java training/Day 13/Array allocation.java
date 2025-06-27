@@ -8,6 +8,7 @@ public class myclass {
             sa[2] = "L";  
             sa[3] = "A";  
             sa[4] = "J";  
+                
             System.out.println("Original Array Elements:" + Arrays.toString(sa));  
             int numberOfItems = 5;  
             String newItem = "I"; // Expanding Array Elements Later  
