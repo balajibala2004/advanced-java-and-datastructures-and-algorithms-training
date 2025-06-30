@@ -2,7 +2,6 @@
 #include <stdio.h>
 #include <string.h>
 
-
 int main() {
     // Write C code here
     char inp[100];
