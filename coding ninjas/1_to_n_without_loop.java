@@ -7,6 +7,8 @@ public class Solution {
             arr[i] =temp+1 ;
         }
         return arr;
+
+        
         
         //System.out.print(n + " ");
     }
