@@ -1,5 +1,6 @@
 class Solution
 {
+    // main function starts
     public int[] common_digits(int[] nums)
     {
         // code here
