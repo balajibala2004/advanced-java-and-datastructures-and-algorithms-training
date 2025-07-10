@@ -4,6 +4,8 @@ import java.util.Scanner;
 //binary addition
 public class myclass
 {
+
+	
 	public static void main(String args[])
 	{
 		Scanner sc = new Scanner(System.in);
