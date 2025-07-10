@@ -3,6 +3,8 @@
 #include <string.h>
 
 int main() {
+
+    
     // Write C code here
     char inp[100];
     fgets(inp , sizeof(inp) , stdin);
