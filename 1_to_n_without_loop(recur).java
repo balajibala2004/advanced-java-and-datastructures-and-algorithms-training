@@ -2,6 +2,7 @@ public class Solution {
     public static int[] printNos(int x){
     
      int[]ans =new int[x];
+	    
 
     recur(x, ans);
 
