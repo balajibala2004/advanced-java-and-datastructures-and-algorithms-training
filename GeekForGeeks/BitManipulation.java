@@ -7,6 +7,7 @@ class Solution {
         int t = (num>>i-1)&1;
         
         System.out.print(t + " ");
+
         
         int t1 = (1<<i-1)|num;
         System.out.print(t1 + " ");
