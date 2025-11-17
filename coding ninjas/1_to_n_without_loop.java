@@ -5,6 +5,7 @@ public class Solution {
         for (int i = 0; i < x; i++) {
             int temp = i;
             arr[i] =temp+1 ;
+            
         }
         return arr;
 
