@@ -5,6 +5,7 @@ class Solution
 
     public static int func(int[] nums, int goal)
     {
+        
          int l=0,r=0,sum=0,count=0;
         if(goal<0)
         {
