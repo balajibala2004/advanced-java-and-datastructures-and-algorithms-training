@@ -5,6 +5,7 @@ class BinaryHeap {
     static int size;
     static int capacity;
     static int[] arr;
+
     
     BinaryHeap(int cap)
     {
