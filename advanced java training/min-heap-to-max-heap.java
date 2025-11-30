@@ -4,7 +4,7 @@
     {
         int largest = i;
         
-        int lc = 2*i+1; ;
+        int lc = 2*i+1;  ;
         int rc = 2*i+2;
         
         if( lc < n && arr[i]<arr[lc])
