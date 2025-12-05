@@ -8,6 +8,7 @@ public class Solution {
 		
 
     return ans;
+		
 }
 
 	public static void recur(int x , int[] ans)
